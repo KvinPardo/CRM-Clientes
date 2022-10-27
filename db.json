@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "nombre": "Camila Pardo Veas",
+      "empresa": "CARPER",
+      "email": "camila.pardo@correo.com",
+      "telefono": 9987654321,
+      "notas": "notas",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Yerko",
+      "telefono": 9987654321,
+      "email": "yerko@correo.com",
+      "empresa": "Falabella"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 9987654321,
+      "email": "miguel@correo.com",
+      "empresa": "Ripley"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 9987654321,
+      "email": "pedro@correo.com",
+      "empresa": "Flagare"
+    },
+    {
+      "nombre": "Kevin",
+      "empresa": "NexNews",
+      "email": "kevin.pardov25@gmail.com",
+      "telefono": 9987654321,
+      "notas": "hola",
+      "id": 6
+    }
+  ]
+}
